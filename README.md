@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/whos_exo" target="blank"><img src="https://img.shields.io/twitter/follow/whos_exo?logo=twitter&style=for-the-badge" alt="whos_exo" /></a> </p>
 
-- 🔭 I’m currently working on **Website Building**
+- 🔭 I’m currently working on **Learning What to work on lol**
 
 - 🌱 I’m currently learning **Anything if you are willing to teach me!**
 
 - 👯 I’m looking to collaborate on **Anything if you are willing to teach me!**
 
-- 🤝 I’m looking for help with **Anything if you are willing to teach me!**
+- 🤝 I’m looking for help with **Learning how to make game game cheats or something to code when bored**
 
 - 💬 Ask me about **Anything if you are willing to teach me!**
 
