@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Anything if you are willing to teach me!**
 
-- 📫 How to reach me **Anything if you are willing to teach me!**
+- 📫 How to reach me **WhosExo@proton.me**
 
 - ⚡ Fun fact **Anything if you are willing to teach me!**
 
