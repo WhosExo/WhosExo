@@ -3,8 +3,6 @@
 <h3 align="center">Learning To Code The Simple First</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=whosexo&label=Profile%20views&color=0e75b6&style=flat" alt="whosexo" /> </p>
-
 <p align="left"> <a href="https://twitter.com/whos_exo" target="blank"><img src="https://img.shields.io/twitter/follow/whos_exo?logo=twitter&style=for-the-badge" alt="whos_exo" /></a> </p>
 
 - 🔭 I’m currently working on **Website Building**
@@ -17,7 +15,7 @@
 
 - 💬 Ask me about **Anything if you are willing to teach me!**
 
-- 📫 How to reach me **WhosExo@proton.me**
+- 📫 How to reach me **Anything if you are willing to teach me!**
 
 - ⚡ Fun fact **Anything if you are willing to teach me!**
 
@@ -31,7 +29,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/WhosExo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/WhosExo" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whosexo&show_icons=true&locale=en&layout=compact" alt="whosexo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whosexo&" alt="whosexo" /></p>
