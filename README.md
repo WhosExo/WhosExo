@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://th.bing.com/th/id/R.21116158daaeb1459b4ec0758505e1ad?rik=ymQdzmyYITrBnQ&pid=ImgRaw&r=0)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Exo</h1>
 <h3 align="center">Learning To Code Websites</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.21116158daaeb1459b4ec0758505e1ad?rik=ymQdzmyYITrBnQ&pid=ImgRaw&r=0">
